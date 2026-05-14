@@ -609,17 +609,12 @@ CTG Image Processing: C++ / OpenCV
 
 ### Итоговые временные ряды
 
-```markdown
 ![Итоговый график](output/ctg_plot.png)
-```
 
 ### Наложение найденных графиков на исходное изображение
 
-```markdown
 ![Overlay](output/debug/combined_overlay.png)
-```
 
-Эти изображения можно просматривать напрямую на GitHub, если файлы находятся в репозитории.
 
 ---
 
